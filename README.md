@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This is a simple Contact Manager. Some contacts are already initialized and new ones can be added by typing the names in the text field. Nothing special, but is more practice with React.js and Redux.js.
+
 In the project directory, you can run:
 
 ### `npm start`
